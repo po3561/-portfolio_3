@@ -974,22 +974,7 @@ a.close>i{display: block;position: absolute;right: -70%; top: 18%}
 
 
 
-@media(max-width:411px){
-    .box1_header{width: 50%;left: 0;right: 0;margin: 0 auto;top: -13%}
-    .box1_header:hover{transform: translate(0, 10px)}
-    .box1_header p{padding-top: 60%;font-size: 1.2rem}
-   #header{line-height: revert }
-     #mainimg{margin-top: 50%}
-    
-    .box3_header p{padding-top: 95%;font-size: 1.2rem}
-    
-    .box2_header{width: 50%;left: 0;right: 0;margin: 0 auto;top: -10%}
-    .box2_header:hover{transform: translate(0, 10px)}
-    .box2_header p{padding-top: 40%;font-size: 1.2rem}
-     
-}
-
-@media(max-width:371px){
+@media(max-width:511px){
     .box1_header{width: 50%;left: 0;right: 0;margin: 0 auto;top: -12%}
     .box1_header:hover{transform: translate(0, 10px)}
     .box1_header p{padding-top: 60%;font-size: 1.2rem}
@@ -1014,6 +999,8 @@ a.close>i{display: block;position: absolute;right: -70%; top: 18%}
     .inin{float: left;width: 100%; margin-bottom: 10%}
     .ttt{float: left;width: 100%; margin-bottom: 10%}
 }
+
+
     
 
 /**@media(max-width:321px){
