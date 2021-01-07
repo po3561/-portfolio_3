@@ -989,7 +989,7 @@ a.close>i{display: block;position: absolute;right: -70%; top: 18%}
      
 }
 
-@media(max-width:341px){
+@media(max-width:371px){
     .box1_header{width: 50%;left: 0;right: 0;margin: 0 auto;top: -12%}
     .box1_header:hover{transform: translate(0, 10px)}
     .box1_header p{padding-top: 60%;font-size: 1.2rem}
