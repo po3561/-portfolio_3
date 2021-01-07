@@ -967,9 +967,24 @@ a.close>i{display: block;position: absolute;right: -70%; top: 18%}
 .menu_kz a div{width: 50%;margin: 0 auto;padding: 2% 0;transition:  all 0.3s}
 .menu_kz:hover{height: auto;transition:  all 0.3s}
     #mainimg>iframe{width: 100%}
+     .box2_contents_mo_top ul li{width: 80%;float: none!important;;margin: 0 auto 10%!important}
+    .box2_contents_mo_cv ul li{width: 80%;float: none!important;;margin: 0 auto 10%!important}
+    .box2_contents_mo_bottom ul li{width: 80%;float: none!important;;margin: 0 auto 10%!important}
+    
+    .left_1{float: left;width: 100%;margin: 0 auto 15%!important}
+.cet_1{float: left;width: 100%;margin: 0 auto 15%!important}
+    .right_1{float: left;width: 100%;margin: 0 auto 15%!important;display: block}
+    .box3_contents_right{display: none}
+    
+    .kkk{float: left;width: 100%; margin-bottom: 10%}
+    .fff{float: left;width: 100%; margin-bottom: 10%}
+    .inin{float: left;width: 100%; margin-bottom: 10%}
+    .ttt{float: left;width: 100%; margin-bottom: 10%}
+}
+
     
      
-} 
+
 
 
 
@@ -985,21 +1000,7 @@ a.close>i{display: block;position: absolute;right: -70%; top: 18%}
     .box2_header{width: 50%;left: 0;right: 0;margin: 0 auto;top: -10%}
     .box2_header:hover{transform: translate(0, 10px)}
     .box2_header p{padding-top: 40%;font-size: 1.2rem}
-    .box2_contents_mo_top ul li{width: 80%;float: none!important;;margin: 0 auto 10%!important}
-    .box2_contents_mo_cv ul li{width: 80%;float: none!important;;margin: 0 auto 10%!important}
-    .box2_contents_mo_bottom ul li{width: 80%;float: none!important;;margin: 0 auto 10%!important}
-    
-    .left_1{float: left;width: 100%;margin: 0 auto 15%!important}
-.cet_1{float: left;width: 100%;margin: 0 auto 15%!important}
-    .right_1{float: left;width: 100%;margin: 0 auto 15%!important;display: block}
-    .box3_contents_right{display: none}
-    
-    .kkk{float: left;width: 100%; margin-bottom: 10%}
-    .fff{float: left;width: 100%; margin-bottom: 10%}
-    .inin{float: left;width: 100%; margin-bottom: 10%}
-    .ttt{float: left;width: 100%; margin-bottom: 10%}
-}
-
+   
 
     
 
